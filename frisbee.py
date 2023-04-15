@@ -74,7 +74,7 @@ class FrisbeeDog(Dog):
         return str
             
         
-
+#dog names can be changed to suit your needs
 buddy = FrisbeeDog("Buddy", 4, 27)
 rody = ServiceDog("Rody", 8, 39, "Joseph")
 codie = Dog('Codie', 12, 33)
